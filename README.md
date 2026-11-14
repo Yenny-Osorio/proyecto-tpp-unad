@@ -18,17 +18,9 @@ El sistema se compone de tres capas principales interconectadas mediante una API
 El script de inicialización y creación de tablas relacionales (`usuarios`, `actas_tpp`, `allegados_tpp`, `ingresos_ctp`, `novedades_tpp`) se encuentra en la carpeta `/database/schema_tpp.sql`. Garantiza el cumplimiento de normativas de tratamiento de datos y trazabilidad institucional.
 
 ---
-
-## ⚙️ Instrucciones de Instalación y Ejecución
-
-### 1. Clonar el repositorio
-```bash
-git clone https://github.com/Yenny-Osorio/proyecto-tpp-unad.git
-cd proyecto-tpp-unad
 ### 👥 Integrantes del Proyecto
 * **Yenny Fernanda Osorio Giraldo**
 * **Marlon Yasir Moreno Gómez**
 
 ### 🔗 Enlaces y Recursos del Prototipo
-* **Prototipo Interactivo (Figma):** [Ingresa aquí para ver el prototipo de la app móvil y el panel web]
-(https://www.figma.com/proto/Pe9ipbPrEgWtiJTY4allSd/PROYECTO-TPP?node-id=7-1080&t=ngfxipRXR8iGx2tw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A1688)
+* **Prototipo Interactivo (Figma):** [Ingresa aquí para ver el prototipo de la app móvil y el panel web](https://www.figma.com/proto/Pe9ipbPrEgWtiJTY4allSd/PROYECTO-TPP?node-id=7-1080&t=Iw1G2BZhDkpXrzGz-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A1688)
