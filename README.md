@@ -25,3 +25,10 @@ El script de inicialización y creación de tablas relacionales (`usuarios`, `ac
 ```bash
 git clone https://github.com/Yenny-Osorio/proyecto-tpp-unad.git
 cd proyecto-tpp-unad
+### 👥 Integrantes del Proyecto
+* **Yenny Fernanda Osorio Giraldo**
+* **Marlon Yasir Moreno Gómez**
+
+### 🔗 Enlaces y Recursos del Prototipo
+* **Prototipo Interactivo (Figma):** [Ingresa aquí para ver el prototipo de la app móvil y el panel web]
+(https://www.figma.com/proto/Pe9ipbPrEgWtiJTY4allSd/PROYECTO-TPP?node-id=7-1080&t=ngfxipRXR8iGx2tw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A1688)
