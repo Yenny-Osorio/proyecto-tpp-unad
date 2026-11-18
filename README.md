@@ -23,6 +23,5 @@ El script de inicialización y creación de tablas relacionales (`usuarios`, `ac
 * **Marlon Yasir Moreno Gómez**
 
 ### 🔗 Enlaces y Recursos del Prototipo
-* **Prototipo Interactivo (Figma):** [Ingresa aquí para ver el prototipo de la app móvil y el panel web](https://www.figma.com/proto/Pe9ipbPrEgWtiJTY4allSd/PROYECTO-TPP?node-id=3-1688&p=f&t=RtWVcX3VREsrAR9V-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A1688)
-* 
+* **Prototipo Interactivo (Figma):** [Ingresa aquí para ver el prototipo de la app móvil y el panel web](https://www.figma.com/proto/Pe9ipbPrEgWtiJTY4allSd/PROYECTO-TPP?node-id=3-1688&p=f&t=RtWVcX3VREsrAR9V-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A1688) 
 ### 🔗 Enlaces y Recursos del Prototipo VIDEO: (https://youtube.com/shorts/J1NhQfJJbp4)
