@@ -23,5 +23,8 @@ El script de inicialización y creación de tablas relacionales (`usuarios`, `ac
 * **Marlon Yasir Moreno Gómez**
 
 ### 🔗 Enlaces y Recursos del Prototipo
-* **Prototipo Interactivo (Figma):** [Ingresa aquí para ver el prototipo de la app móvil y el panel web](https://www.figma.com/proto/Pe9ipbPrEgWtiJTY4allSd/PROYECTO-TPP?node-id=3-1688&p=f&t=RtWVcX3VREsrAR9V-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A1688) 
-### 🔗 Enlaces y Recursos del Prototipo VIDEO: (https://youtube.com/shorts/J1NhQfJJbp4)
+
+* **Prototipo Interactivo (Figma):** [Ingresa aquí para explorar el prototipo funcional (App Móvil y Panel Web)](https://www.figma.com/proto/Pe9ipbPrEgWtiJTY4allSd/PROYECTO-TPP?node-id=3-1688&p=f&t=q4TSgHTkXjWaKdbv-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A1688)
+* **Demostración en Video (YouTube):** [Ver sustentación y demostración funcional del sistema](https://youtube.com/shorts/J1NhQfJJbp4)
+* * Demostración Funcional y Sustentación Fase 4:** [Ver sustentación y demostración funcional del sistema](https://unadvirtualedu-my.sharepoint.com/:v:/g/personal/yfosoriog_unadvirtual_edu_co/IQAXfUw0B9VfRrlydHLGhGDXAeRxhwmI7Jl3-OkbQvq5dSU?e=H5On0X)
+* **Repositorio Técnico (GitHub):** [https://github.com/Yenny-Osorio/proyecto-tpp-unad](https://github.com/Yenny-Osorio/proyecto-tpp-unad)
